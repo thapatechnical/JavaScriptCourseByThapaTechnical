@@ -866,7 +866,7 @@
 
 
  
-// 6️⃣ Fat Arror Function 
+// 6️⃣ Fat Arrow Function 
 
 // 👻 Normal Way of writing Function  
 
@@ -2785,7 +2785,7 @@
 
 // // 7️⃣ AJAX Call using XMLHttprequest 
 
-// // how to handled with the events and callback 
+// // how to handle with the events and callback 
 
 // // XMLHttpRequest (XHR) objects are used to interact with servers. 
 // // You can retrieve data from a URL without having to do a full 
