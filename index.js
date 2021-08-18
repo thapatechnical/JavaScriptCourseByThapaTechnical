@@ -853,7 +853,7 @@
 
       // console.log(myBio);
 
-  // ➡ no need to write key and value, if both are same 
+  // ➡ no need to write key and value pairs, if both are same 
 
   // let myName = "vinod thapa";
   // let myAge = 26;
@@ -866,7 +866,7 @@
 
 
  
-// 6️⃣ Fat Arror Function 
+// 6️⃣ Fat Arrow Function 
 
 // 👻 Normal Way of writing Function  
 
