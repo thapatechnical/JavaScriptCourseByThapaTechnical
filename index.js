@@ -2,7 +2,7 @@
 
 /****  Section 1👉 we need to do it in console ****/
 // alert("Welcome, to Complete JavaScript course");
-// confirm("Are you studying JavaScript right now?");
+// confirm("Press "OK" button if you are studying JavaScript. ");
 // console.log('Welcome, to complete JavaScript Course');
 
 
